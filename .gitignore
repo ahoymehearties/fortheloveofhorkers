@@ -1796,9 +1796,7 @@ DialogueViews/02038567.xml
 DialogueViews/02038A77.xml
 DialogueViews/02038B76.xml
 Dragonborn.esm
-ForTheLoveOfHorkers.esp
 HearthFires.esm
-meshes/Actors/Character/FaceGenData/FaceGeom/ForTheLoveOfHorkers.esp/00000D61.NIF
 meshes/Interface/logo/logo.nif
 Online/crashpad/metadata
 Online/crashpad/settings.dat
@@ -15911,7 +15909,5 @@ Source/Scripts/WorldSpace.psc
 Source/Scripts/WoundRefOnLoad.psc
 Source/Scripts/WRDrawBridge01SCRIPT.psc
 Source/Scripts/WuuthradScript.psc
-Textures/Actors/Character/FaceGenData/FaceTint/ForTheLoveOfHorkers.esp/00000D61.dds
-Textures/Actors/Character/FaceGenData/FaceTint/ForTheLoveOfHorkers.esp/00000D61.tga
 Update.esm
 Video/BGS_Logo.bik
