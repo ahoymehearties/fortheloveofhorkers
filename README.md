@@ -1,0 +1,1 @@
+A little comedy quest mod, but done earnestly.
